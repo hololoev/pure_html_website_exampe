@@ -1,0 +1,15 @@
+{
+  "name": "project0",
+  "version": "1.0.0",
+  "description": "Web Programming with Python and JavaScript Project0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "sht-cli ./src/html/ ./pub/"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "simple-html-templates": "*"
+  }
+}
